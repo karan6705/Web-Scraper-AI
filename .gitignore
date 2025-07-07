@@ -1,0 +1,4 @@
+ai/lib/
+*.dylib
+*.node
+__pycache__/
